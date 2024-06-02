@@ -1,2 +1,2 @@
-Live Preview
-You can view the project at the following link: Earthquake Visualization
+Module 15 Challenge 
+please view project [here]https://railcressall.github.io/leaflet-challenge/ 
